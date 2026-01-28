@@ -1,0 +1,13 @@
+{
+  "phi_cardiac": 0.9385570460385104,
+  "analysis_date": "2026-01-27T23:25:18.151614",
+  "results": {
+    "phi_economic_real_mean": 0.8475991440836677,
+    "diff_real": 0.09095790195484277,
+    "diff_pct_real": 10.731240420632632,
+    "t_stat_real": -9.471318884238999,
+    "p_value_real": 5.613045577449075e-06,
+    "n_countries": 10,
+    "n_observations": 200
+  }
+}

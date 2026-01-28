@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp":1769555269715,
+    "phi_cardiac":0.938557046,
+    "hr_bpm":74.2118027486,
+    "hrv_ms":49.6764274839,
+    "cv_rr":0.061442954,
+    "phi_economic_mean":0.85,
+    "phi_economic_std":0.0535577992,
+    "income_mean":55971.6746403505,
+    "phi_difference":0.088557046,
+    "phi_difference_pct":10.4184760045,
+    "phi_ratio":1.10418476,
+    "t_statistic":-5.2287803528,
+    "p_value":0.0005428089,
+    "correlation_r":1.0,
+    "correlation_p":0.0,
+    "regression_r2":1.0,
+    "regression_slope":0.0000017866,
+    "regression_intercept":0.75,
+    "n_economic_samples":10,
+    "significance_stars":"***"
+  }
+]

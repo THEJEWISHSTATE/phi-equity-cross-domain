@@ -1,0 +1,58 @@
+{
+  "analysis_date": "2026-01-27T23:38:46.816283",
+  "economic_phi_reference": 0.8475991440836677,
+  "cardiac_phi_population_mean": 0.9124542539823535,
+  "scenarios": [
+    {
+      "scenario": "Scenario Pessimistico",
+      "phi_cardiac": 0.767,
+      "phi_economic": 0.8475991440836677,
+      "difference": -0.08059914408366764,
+      "difference_pct": -9.509111075236243,
+      "ratio": 0.9049088892476376,
+      "significance": "SIGNIFICATIVA",
+      "stars": "***",
+      "interpretation": "Economico MOLTO pi\u00f9 complesso"
+    },
+    {
+      "scenario": "Scenario Realistico",
+      "phi_cardiac": 0.9124542539823535,
+      "phi_economic": 0.8475991440836677,
+      "difference": 0.06485510989868581,
+      "difference_pct": 7.651625223005638,
+      "ratio": 1.0765162522300564,
+      "significance": "SIGNIFICATIVA",
+      "stars": "**",
+      "interpretation": "Cardiaco MOLTO pi\u00f9 complesso"
+    },
+    {
+      "scenario": "Scenario Ottimistico",
+      "phi_cardiac": 0.939,
+      "phi_economic": 0.8475991440836677,
+      "difference": 0.09140085591633229,
+      "difference_pct": 10.783500261216638,
+      "ratio": 1.1078350026121664,
+      "significance": "SIGNIFICATIVA",
+      "stars": "***",
+      "interpretation": "Cardiaco MOLTO pi\u00f9 complesso"
+    },
+    {
+      "scenario": "Scenario Conservativo",
+      "phi_cardiac": 0.85,
+      "phi_economic": 0.8475991440836677,
+      "difference": 0.002400855916332323,
+      "difference_pct": 0.28325369758694935,
+      "ratio": 1.0028325369758695,
+      "significance": "non significativa",
+      "stars": "n.s.",
+      "interpretation": "Simile complessit\u00e0"
+    }
+  ],
+  "overall_conclusion": {
+    "preferred_scenario": "Scenario Realistico",
+    "reasoning": "Basato sulla media della popolazione cardiaca analizzata",
+    "recommended_phi_cardiac": 0.9124542539823535,
+    "recommended_phi_economic": 0.8475991440836677,
+    "conclusion": "Il sistema cardiaco (\u03a6=0.912) appare pi\u00f9 complesso del sistema economico (\u03a6=0.848) ma la differenza richiede ulteriore validazione"
+  }
+}

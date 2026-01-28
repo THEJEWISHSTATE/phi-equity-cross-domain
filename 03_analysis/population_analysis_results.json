@@ -1,0 +1,15 @@
+{
+  "cardiac_mean": 0.9124542539823535,
+  "cardiac_std": 0.06011267058910163,
+  "economic_mean": 0.8475991440836677,
+  "diff_mean": 0.06485510989868581,
+  "diff_pct": 7.651625223005638,
+  "t_stat_pop": 3.411757673889835,
+  "p_value_pop": 0.007728082199199439,
+  "t_stat_systems": 3.372779849430503,
+  "p_value_systems": 0.00767223667763107,
+  "cohens_d": 1.5126851880674794,
+  "effect_magnitude": "GRANDE",
+  "n_cardiac": 10,
+  "n_economic": 200
+}
