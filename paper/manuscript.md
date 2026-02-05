@@ -36,4 +36,4 @@ Cardiac systems show higher distributional equity than economic systems, suggest
 Φ-complexity provides a valid cross-domain comparison metric with implications for system design.
 
 ## 6. Data Availability
-All code and data available at: https://github.com/thejewishstate/phi-complexity-research
+All code and data available at: https://github.com/thejewishstate/phi-equity-cross-domain
